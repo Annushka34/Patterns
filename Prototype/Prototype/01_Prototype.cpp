@@ -90,7 +90,7 @@ Multimedia* MultimediaFabric::photoPrincess = new Gpeg(120, "Princess img 2");
 Multimedia* MultimediaFabric::soundGoblin = new Gpeg(5, "brrrrrrr");
 Multimedia* MultimediaFabric::soundPrincess = new Gpeg(7, "la-la-la");
 
-//Multimedia* MultimediaFabric::arr{ new Gpeg(50, "Goblin img 1"), new Gpeg(50, "Goblin img 1"), new Gpeg(50, "Goblin img 1") };
+//Multimedia* MultimediaFabric::arr = new Multimedia { new Gpeg(50, "Goblin img 1"), new Gpeg(50, "Goblin img 1"), new Gpeg(50, "Goblin img 1") };
 
 void main()
 {
