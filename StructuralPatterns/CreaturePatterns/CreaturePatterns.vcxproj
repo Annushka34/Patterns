@@ -123,6 +123,7 @@
     <ClCompile Include="02_Bridge.cpp" />
     <ClCompile Include="03_Composite.cpp" />
     <ClCompile Include="04_Composite.cpp" />
+    <ClCompile Include="05_Decorator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -27,5 +27,8 @@
     <ClCompile Include="04_Composite.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="05_Decorator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
