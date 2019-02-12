@@ -33,5 +33,8 @@
     <ClCompile Include="06_Fasade.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="07_Flyweight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
