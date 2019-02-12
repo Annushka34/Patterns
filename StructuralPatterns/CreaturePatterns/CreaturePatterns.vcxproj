@@ -124,6 +124,7 @@
     <ClCompile Include="03_Composite.cpp" />
     <ClCompile Include="04_Composite.cpp" />
     <ClCompile Include="05_Decorator.cpp" />
+    <ClCompile Include="06_Fasade.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
