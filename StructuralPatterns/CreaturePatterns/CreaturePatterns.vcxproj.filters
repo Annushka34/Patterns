@@ -36,5 +36,11 @@
     <ClCompile Include="07_Flyweight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="08_Proxy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09_Proxy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

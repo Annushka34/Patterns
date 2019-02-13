@@ -126,6 +126,8 @@
     <ClCompile Include="05_Decorator.cpp" />
     <ClCompile Include="06_Fasade.cpp" />
     <ClCompile Include="07_Flyweight.cpp" />
+    <ClCompile Include="08_Proxy.cpp" />
+    <ClCompile Include="09_Proxy.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
