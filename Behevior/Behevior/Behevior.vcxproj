@@ -120,6 +120,13 @@
   <ItemGroup>
     <ClCompile Include="01_ChainOfResponcibility.cpp" />
     <ClCompile Include="02_ChainOfResponcibility.cpp" />
+    <ClCompile Include="03_Command.cpp" />
+    <ClCompile Include="04_Interpreter.cpp" />
+    <ClCompile Include="05_Iterator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Iterator.h" />
+    <ClInclude Include="MyCollection.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
