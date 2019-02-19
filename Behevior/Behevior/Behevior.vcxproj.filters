@@ -30,7 +30,7 @@
     <ClCompile Include="05_Iterator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="06_Mediator.cpp">
+    <ClCompile Include="06_Memento.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
