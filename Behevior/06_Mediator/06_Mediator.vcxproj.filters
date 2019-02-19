@@ -15,30 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_ChainOfResponcibility.cpp">
+    <ClCompile Include="mediator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="02_ChainOfResponcibility.cpp">
+    <ClCompile Include="Brain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="03_Command.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="04_Interpreter.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="05_Iterator.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="06_Mediator.cpp">
+    <ClCompile Include="BodyParts.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Iterator.h">
+    <ClInclude Include="Brain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyCollection.h">
+    <ClInclude Include="BodyParts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

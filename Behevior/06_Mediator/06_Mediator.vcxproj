@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D4BC347B-543E-44EB-A5DD-29009C38D544}</ProjectGuid>
-    <RootNamespace>Behevior</RootNamespace>
+    <ProjectGuid>{46FD3DE4-F0A5-497A-893F-F6637A55B323}</ProjectGuid>
+    <RootNamespace>My06Mediator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -118,16 +118,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_ChainOfResponcibility.cpp" />
-    <ClCompile Include="02_ChainOfResponcibility.cpp" />
-    <ClCompile Include="03_Command.cpp" />
-    <ClCompile Include="04_Interpreter.cpp" />
-    <ClCompile Include="05_Iterator.cpp" />
-    <ClCompile Include="06_Mediator.cpp" />
+    <ClCompile Include="BodyParts.cpp" />
+    <ClCompile Include="Brain.cpp" />
+    <ClCompile Include="mediator.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Iterator.h" />
-    <ClInclude Include="MyCollection.h" />
+    <ClInclude Include="BodyParts.h" />
+    <ClInclude Include="Brain.h" />
+    <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
