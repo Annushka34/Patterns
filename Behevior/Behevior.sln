@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_MediatorChat", "07_Media
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_Observer", "08_Observer\08_Observer.vcxproj", "{6554BAD6-29F2-4F76-9BD8-ED12D357FFFA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_State", "09_State\09_State.vcxproj", "{BC06F73E-411E-4542-8F6B-523C96F14AC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{6554BAD6-29F2-4F76-9BD8-ED12D357FFFA}.Release|x64.Build.0 = Release|x64
 		{6554BAD6-29F2-4F76-9BD8-ED12D357FFFA}.Release|x86.ActiveCfg = Release|Win32
 		{6554BAD6-29F2-4F76-9BD8-ED12D357FFFA}.Release|x86.Build.0 = Release|Win32
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Debug|x64.ActiveCfg = Debug|x64
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Debug|x64.Build.0 = Debug|x64
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Debug|x86.Build.0 = Debug|Win32
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Release|x64.ActiveCfg = Release|x64
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Release|x64.Build.0 = Release|x64
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Release|x86.ActiveCfg = Release|Win32
+		{BC06F73E-411E-4542-8F6B-523C96F14AC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
