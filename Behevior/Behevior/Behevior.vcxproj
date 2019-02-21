@@ -124,6 +124,9 @@
     <ClCompile Include="04_Interpreter.cpp" />
     <ClCompile Include="05_Iterator.cpp" />
     <ClCompile Include="06_Memento.cpp" />
+    <ClCompile Include="10_Strategy.cpp" />
+    <ClCompile Include="11_TemplateMethod.cpp" />
+    <ClCompile Include="12_Visistor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Iterator.h" />

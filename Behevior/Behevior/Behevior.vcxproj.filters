@@ -33,6 +33,15 @@
     <ClCompile Include="06_Memento.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10_Strategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11_TemplateMethod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12_Visistor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Iterator.h">
